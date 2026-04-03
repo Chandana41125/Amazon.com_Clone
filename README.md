@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone (Frontend Project)
+<img width="1920" height="1080" alt="Screenshot 2026-04-03 114739" src="https://github.com/user-attachments/assets/255eaa0b-2b52-418e-a37a-ffdc8b52097a" /># 🛒 Amazon Clone (Frontend Project)
 
 ## 📌 Project Overview
 
@@ -53,6 +53,8 @@ project-folder/
 
 * Amazon-like homepage UI
 * Clean layout with sections similar to real Amazon
+* Output photos are uploaded in the screenshot files 
+
 
 ---
 
@@ -72,8 +74,8 @@ project-folder/
 
 ---
 
-## Output photos
---output photos are uploaded in the screenshot files
+
+
 
 ## 👩‍💻 Author
 

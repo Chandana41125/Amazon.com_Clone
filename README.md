@@ -1,4 +1,7 @@
-<img width="1920" height="1080" alt="Screenshot 2026-04-03 114739" src="https://github.com/user-attachments/assets/Screenshot 2026-04-03 114929.png" /># 🛒 Amazon Clone (Frontend Project)
+# 🛒 Amazon Clone (Frontend Project)
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-03 114739" src=["https://github.com/user-attachments/assets/Screenshot 2026-04-03 114929.png"](https://github.com/Chandana41125/Amazon.com_Clone/blob/main/Screenshot%202026-04-03%20114929.png) />
 
 <img width="1920" height="1080" alt="Screenshot 2026-04-03 114739" src="https://github.com/user-attachments/assets/255eaa0b-2b52-418e-a37a-ffdc8b52097a" /># 🛒 Amazon Clone (Frontend Project)
 

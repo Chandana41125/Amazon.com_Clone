@@ -72,6 +72,9 @@ project-folder/
 
 ---
 
+## Output photos
+--output photos are uploaded in the screenshot files
+
 ## 👩‍💻 Author
 
 Chandana (Chandu)
